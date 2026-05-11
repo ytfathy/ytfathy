@@ -9,7 +9,7 @@ AI Engineer specializing in Machine Learning, Computer Vision, and Data Analysis
 - 🛠️ Building **Skepti-Scan** with Ziyad Ahmed, a **rag project**
 - 🧠 Learning to build and deploy **intelligent game agents** and **relational database systems** 
 - 💡 Exploring algorithmic problem solving and **full-cycle data science workflows** 
-- 📫 Reach me at [youseftarek1707@gmail.com](mailto:youseftarek1707@gmail.com) 
+- 📫 Reach me at [youseftfathy@gmail.com](mailto:youseftfathy@gmail.com) 
 
 ---
 
